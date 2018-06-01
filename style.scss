@@ -164,17 +164,17 @@ a {
 }
 
 .illustration .back {
-  background-image: url('/svgs/toolbox-back.svg');
+  background-image: url('{{ site.baseurl }}/svgs/toolbox-back.svg');
   z-index: 5;
 }
 
 .illustration .handle {
-  background-image: url('/svgs/toolbox-handle.svg');
+  background-image: url('{{ site.baseurl }}/svgs/toolbox-handle.svg');
   z-index: 7;
 }
 
 .illustration .front {
-  background-image: url('/svgs/toolbox-front.svg');
+  background-image: url('{{ site.baseurl }}/svgs/toolbox-front.svg');
   z-index: 20;
 }
 
@@ -199,31 +199,31 @@ a {
 }
 
 .illustration .wrench {
-  background-image: url('/svgs/wrench.svg');
+  background-image: url('{{ site.baseurl }}/svgs/wrench.svg');
   width: 220px;
   height: 100px;
 }
 
 .illustration .ruler {
-  background-image: url('/svgs/ruler.svg');
+  background-image: url('{{ site.baseurl }}/svgs/ruler.svg');
   width: 260px;
   height: 300px;
 }
 
 .illustration .saw {
-  background-image: url('/svgs/saw.svg');
+  background-image: url('{{ site.baseurl }}/svgs/saw.svg');
   width: 230px;
   height: 130px;
 }
 
 .illustration .pencils {
-  background-image: url('/svgs/pencils.svg');
+  background-image: url('{{ site.baseurl }}/svgs/pencils.svg');
   width: 230px;
   height: 180px;
 }
 
 .illustration .brush {
-  background-image: url('/svgs/brush.svg');
+  background-image: url('{{ site.baseurl }}/svgs/brush.svg');
   width: 240px;
   height: 100px;
 }
