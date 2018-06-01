@@ -1,0 +1,9 @@
+extensionName: pixelTool
+repository: https://github.com/typemytype/pixelToolRoboFontExtension
+extensionPath: PixelTool.roboFontExt
+description: Draw with pixels.
+tags:
+  - pixel
+  - drawing
+developer: "Frederik Berlaen"
+developerURL: http://typemytype.com
