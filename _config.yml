@@ -17,15 +17,9 @@ url: http://www.robofontmechanic.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "" # the subpath of your site, e.g. /blog
 
-permalink: pretty
+permalink: /:title/
 
 port: 8888
-
-collections:
-  extensions:
-    output: true
-    permalink: /:collection/:path
-
 
 # Build settings
 markdown: kramdown
