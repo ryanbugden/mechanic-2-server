@@ -2,7 +2,6 @@ extensionName: Outliner
 repository: https://github.com/typemytype/outlinerRoboFontExtension
 extensionPath: Outliner.roboFontExt
 description: Outlining strokes.
-icon: https://raw.githubusercontent.com/typemytype/outlinerRoboFontExtension/master/outliner.png
 tags:
   - contour
   - strokes
