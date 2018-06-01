@@ -53,7 +53,7 @@ excludeSearch: true
 <div class="sorter-item" data-title="{{ item.title }}" data-groups='["{{ filters | join: '", "'}}"]'>
   <div class="sorter-item-inner">
     <div class="sorter-column sorter-item-title">
-      <a href="{{site.baseurl}}{{ item.repository }}">{{ item.extensionName }}</a>
+      <a href="{{ item.repository }}">{{ item.extensionName }}</a>
     </div>
     <div class="sorter-column sorter-item-developer">
       {{ item.developer }}
