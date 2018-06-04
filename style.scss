@@ -325,6 +325,8 @@ a {
     margin-bottom: 0px;
     padding-top: 20px;
     padding-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
     text-align: center;
     background-color: $hightlightColor;
     @extend .no-select;
