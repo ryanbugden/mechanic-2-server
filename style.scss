@@ -439,7 +439,7 @@ a {
 .credits .standard-library-logo {
   width: 270px;
   height: 36px;
-  background: transparent url('http://fonts.standard-library.com/logos/standard-library-white.svg') no-repeat scroll center center;
+  background: transparent url('{{ site.baseurl }}/svgs/standard-library-white.svg') no-repeat scroll center center;
   display: block;
   margin: 3px auto 0;
   border: none;
