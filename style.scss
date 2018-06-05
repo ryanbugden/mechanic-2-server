@@ -10,25 +10,19 @@ $sideMargin : 1em;
 @font-face {
   font-family: "Action";
   font-weight: 100;
-  src: local("Action Cond Light Grade 2"),
-       url('https://fonts.robofontmechanic.com/action/ActionCondensedLight-Grade2-Web.eot'),
-       url('https://fonts.robofontmechanic.com/action/ActionCondensedLight-Grade2-Web.woff');
+  src: url('http://static.typemytype.com/mechanic/ActionCondensedLightWeb-Grade2.woff');
 }
 
 @font-face {
   font-family: "Action";
   font-weight: 900;
-  src: local("Action Cond Bold Grade 1"),
-       url('https://fonts.robofontmechanic.com/action/ActionCondensedBold-Grade1-Web.eot'),
-       url('https://fonts.robofontmechanic.com/action/ActionCondensedBold-Grade1-Web.woff');
+  src: url('http://static.typemytype.com/mechanic/ActionCondensedBoldWeb-Grade1.woff');
 }
 
 @font-face {
   font-family: "Balto";
   font-weight: regular;
-  src: local("Balto"),
-       url('https://fonts.robofontmechanic.com/balto/baltoweb-book.eot'),
-       url('https://fonts.robofontmechanic.com/balto/baltoweb-book.woff');
+  src: url('http://static.typemytype.com/mechanic/baltoweb-book.woff');
 }
 
 * {
