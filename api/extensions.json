@@ -9,7 +9,7 @@ excludeSearch: true
     "lastUpdate" : "{{ site.time | date: '%Y-%m-%d %H:%M' }}",
     "extensions" : [
     {% for item in extensions %}    {
-            "name": {{ item.extensionName | jsonify }},
+            "extensionName": {{ item.extensionName | jsonify }},
             "repository" :  {{ item.repository | jsonify }},
             "extensionPath" :  {{ item.extensionPath | jsonify }},
             "description" : {{ item.description | jsonify }},
