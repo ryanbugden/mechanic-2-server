@@ -1,0 +1,7 @@
+description: A tool for calculating gray levels at any point in a glyph.
+developer: LettError
+developerURL: http://letterror.com
+extensionName: LightMeter
+extensionPath: LightMeter.roboFontExt
+repository: https://github.com/LettError/LightMeter
+tags: [design helpers]

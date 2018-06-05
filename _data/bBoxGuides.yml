@@ -1,0 +1,7 @@
+description: "Adds guidelines for the current glyph’s bounding box."
+developer: Eduardo Manso
+developerURL: www.emtype.net
+extensionName: BBoxGuides
+extensionPath: BBoxGuides.roboFontExt
+repository: https://github.com/emtypefoundry/robofont
+tags: [design helpers]

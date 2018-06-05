@@ -1,0 +1,7 @@
+description: A developer profile tool.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: RoboFontProfile
+extensionPath: Profile.roboFontExt
+repository: https://github.com/typemytype/profileRoboFontExtension
+tags: [debugging]

@@ -1,0 +1,7 @@
+description: An interactive Python interpreter for RoboFont.
+developer: Tal Leming
+developerURL: http://typesupply.com
+extensionName: RoboREPL
+extensionPath: RoboREPL.roboFontExt
+repository: https://github.com/typesupply/roborepl
+tags: [scripting, debugging]

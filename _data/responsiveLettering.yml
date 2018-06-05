@@ -1,0 +1,7 @@
+description: Preview, edit and generate responsive lettering with svg/html/css/js.
+developer: LettError
+developerURL: http://letterror.com
+extensionName: Responsive Lettering
+extensionPath: ResponsiveLettering.roboFontExt
+repository: https://github.com/LettError/responsiveLettering
+tags: [interpolation]

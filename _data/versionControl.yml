@@ -1,0 +1,7 @@
+description: Python scripts and Extensions for RoboFont
+developer: Alexander Lubovenko
+developerURL: https://github.com/typedev
+extensionName: Version Control
+extensionPath: 'Version Control/VersionControl.roboFontExt'
+repository: https://github.com/typedev/RoboFont
+tags: [versioning]

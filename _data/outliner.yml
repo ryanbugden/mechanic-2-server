@@ -1,10 +1,7 @@
-extensionName: Outliner
-repository: https://github.com/typemytype/outlinerRoboFontExtension
-extensionPath: Outliner.roboFontExt
-description: Outlining strokes.
-tags:
-  - contour
-  - strokes
-  - outline
-developer: "Frederik Berlaen"
+description: Outline strokes.
+developer: Frederik Berlaen
 developerURL: http://typemytype.com
+extensionName: Outliner
+extensionPath: Outliner.roboFontExt
+repository: https://github.com/typemytype/outlinerRoboFontExtension
+tags: [contours, drawing]

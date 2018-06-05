@@ -1,0 +1,7 @@
+description: View and edit the current glyph .glif data.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: Glif Viewer
+extensionPath: GlifViewer.roboFontExt
+repository: https://github.com/typemytype/glifViewerRoboFontExtension
+tags: [debugging, UFO]

@@ -1,0 +1,7 @@
+description: Preview OpenType features.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: Feature Preview
+extensionPath: FeaturePreview.roboFontExt
+repository: https://github.com/typemytype/featurePreviewRoboFontExtension
+tags: [OpenType features]

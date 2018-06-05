@@ -1,0 +1,7 @@
+description: Edit and generate color fonts in various formats.
+developer: Jens Kutilek
+developerURL: https://github.com/jenskutilek
+extensionName: RoboChrome
+extensionPath: RoboChrome.roboFontExt
+repository: https://github.com/jenskutilek/RoboChrome
+tags: [generating fonts]

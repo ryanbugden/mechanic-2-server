@@ -1,9 +1,7 @@
-extensionName: Copy Glyphs
-repository: https://github.com/Typefounding/copyGlyphs
-extensionPath: Copy Glyphs.roboFontExt
 description: Copies the selected glyphs from one open font to other open font(s).
-tags:
-  - copy
-  - glyph
 developer: Ben Kiel
-developerURL: http://typefounding.com
+developerURL: http://www.typefounding.com
+extensionName: Copy Glyphs
+extensionPath: Copy Glyphs.roboFontExt
+repository: https://github.com/Typefounding/copyGlyphs
+tags: [glyph set]

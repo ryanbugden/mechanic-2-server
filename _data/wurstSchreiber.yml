@@ -1,0 +1,7 @@
+description: A tool for drawing segments as sausages.
+developer: Alexandre Saumier Demers
+developerURL: http://asaumierdemers.com
+extensionName: WurstSchreiber
+extensionPath: WurstSchreiber.roboFontExt
+repository: https://github.com/asaumierdemers/WurstSchreiber
+tags: [contours, drawing]

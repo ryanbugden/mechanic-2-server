@@ -1,0 +1,7 @@
+description: Add a change case button to Space Center.
+developer: Jackson Cavanaugh
+developerURL: https://github.com/okay-type
+extensionName: SpaceCase
+extensionPath: SpaceCase.roboFontExt
+repository: https://github.com/colinmford/SpaceCase
+tags: [spacing]

@@ -1,0 +1,7 @@
+description: Fiddle with proportions of a glyph while keeping stem widths consistent.
+developer: Loïc Sander
+developerURL: https://github.com/loicsander
+extensionName: ScaleFast
+extensionPath: ScaleFast/ScaleFast.roboFontExt
+repository: https://github.com/loicsander/Robofont-scripts
+tags: [interpolation, design helpers]

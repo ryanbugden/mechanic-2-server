@@ -3,10 +3,9 @@ sitemap: false
 exclude: true
 ---
 
-$hightlightColor : rgb(235, 30, 30);
-$hightlightColor : #df1eeb;
+$highlightColor: hsl(197, 100%, 50%); // $storeColor
 $darkColor : rgb(35, 35, 35);
-
+$sideMargin : 1em;
 
 @font-face {
   font-family: "Action";
@@ -57,7 +56,7 @@ h1 {
 a {
   color: white;
   text-decoration: none;
-  border-bottom: 1px solid $hightlightColor;
+  border-bottom: 1px solid $highlightColor;
 }
 
 .page-header {
@@ -255,15 +254,22 @@ a {
     background-color: white;
     color: black;
     position: relative;
-    border-top: 1px solid $hightlightColor;
+    border-top: 1px solid $highlightColor;
     a {
       color: black;
       text-decoration: none;
       border: none;
+      &:hover {
+        border-bottom: 1px solid $highlightColor;
+      }
     }
     .sorter-item-inner {
         width: 100%;
+        padding: 0 $sideMargin;
         display: flex;
+        &:hover {
+          background-color: lighten($highlightColor, 40);
+        }
         .sorter-column {
           width: 25%;
           padding: 10px;
@@ -308,7 +314,6 @@ a {
     .sorter-item-tags {
         text-align: right;
     }
-
     .sorter-item-tags,
     .sorter-item-author {
         font-size: 90%;
@@ -323,12 +328,9 @@ a {
 .sorter-checkboxes {
     margin-top: 20px;
     margin-bottom: 0px;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding: 20px $sideMargin 10px;
     text-align: center;
-    background-color: $hightlightColor;
+    background-color: $highlightColor;
     @extend .no-select;
     fieldset {
         border: none;
@@ -343,7 +345,7 @@ a {
         display: inline-block;
         width: auto;
         padding: 3px 10px;
-        background-color: lighten($hightlightColor, 10%);
+        background-color: lighten($highlightColor, 10%);
         margin-bottom: 10px;
         &:hover {
           background-color: lighten($darkColor, 10%);
@@ -365,6 +367,7 @@ a {
     text-align: right;
     font-size: 90%;
     line-height: 20px;
+    padding: 0 $sideMargin;
     color: #c5c5c5;
     @extend .no-select;
     label {
@@ -452,7 +455,7 @@ a {
 }
 
 .fourOFour {
-  background-color: $hightlightColor;
+  background-color: $highlightColor;
   color: white;
   font-size: 500px;
   line-height: 1em;

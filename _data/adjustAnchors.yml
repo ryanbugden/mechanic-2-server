@@ -1,0 +1,7 @@
+description: Preview all base + mark glyph combinations.
+developer: Adobe Type Tools
+developerURL: https://github.com/adobe-type-tools
+extensionName: Adjust Anchors
+extensionPath: AdjustAnchors.roboFontExt
+repository: https://github.com/adobe-type-tools/robofont-extensions
+tags: [accents]

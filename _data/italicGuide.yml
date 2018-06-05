@@ -1,0 +1,7 @@
+description: Displays a slanted guide at the UFO’s italic on mouse down.
+developer: Jérémie Hornus
+developerURL: http://black-foundry.com
+extensionName: ItalicGuide
+extensionPath: ItalicGuide.roboFontExt
+repository: https://github.com/sansplomb/ItalicGuide
+tags: [italics]

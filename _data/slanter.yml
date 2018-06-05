@@ -1,0 +1,7 @@
+description: Slant glyphs without losing extreme points.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: Slanter
+extensionPath: Slanter.roboFontExt
+repository: https://github.com/typemytype/slanterRoboFontExtension
+tags: [design helpers, italics]

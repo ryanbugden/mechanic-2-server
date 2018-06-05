@@ -1,0 +1,7 @@
+description: Cascade windows inside RoboFont.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: Arrange Windows
+extensionPath: Arrange Windows.roboFontExt
+repository: https://github.com/typemytype/arrangeWindowsRoboFontExtension
+tags: [workspace]

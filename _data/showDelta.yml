@@ -1,0 +1,7 @@
+description: Show distance between selected points.
+developer: David Jonathan Ross
+developerURL: http://davidjonathanross.com
+extensionName: Show Delta
+extensionPath: ShowDelta.roboFontExt
+repository: https://github.com/FontBureau/fbOpenTools
+tags: [design helpers]

@@ -1,0 +1,7 @@
+description: Adding overlaps.
+developer: Thom Janssen
+developerURL: https://github.com/thomgb
+extensionName: Cross Overlap
+extensionPath: AddCrossOverlap/CrossOverlap.roboFontExt
+repository: https://github.com/thomgb/RF-Extensions
+tags: [contours, design helpers]

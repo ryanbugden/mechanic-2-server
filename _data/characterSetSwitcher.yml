@@ -1,0 +1,7 @@
+description: Change character set in current font.
+developer: Alexander Lubovenko
+developerURL: https://github.com/typedev
+extensionName: CharacterSet Switcher
+extensionPath: CharacterSet Switcher.roboFontExt
+repository: https://github.com/typedev/CharacterSetSwitcher
+tags: [glyph set]

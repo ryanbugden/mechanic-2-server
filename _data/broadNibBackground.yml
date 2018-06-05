@@ -1,0 +1,7 @@
+description: Draws a broad nib contrast from the background layer.
+developer: Alexandre Saumier Demers
+developerURL: http://asaumierdemers.com
+extensionName: Broad Nib Background
+extensionPath: BroadNibBackground.roboFontExt
+repository: https://github.com/asaumierdemers/BroadNibBackground
+tags: [design helpers, drawing]

@@ -1,0 +1,7 @@
+description: View an overlay of any glyphs from any font behind or beside what you are drawing.
+developer: David Jonathan Ross
+developerURL: http://www.fontbureau.com
+extensionName: Overlay UFOs
+extensionPath: 'OverlayUFOs/Overlay UFOs.roboFontExt'
+repository: https://github.com/FontBureau/fbOpenTools
+tags: [design helpers, interpolation]

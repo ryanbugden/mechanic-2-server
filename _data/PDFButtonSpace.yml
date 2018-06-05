@@ -1,0 +1,7 @@
+description: Adds a PDF button to SpaceCenter.
+developer: Thom Janssen
+developerURL: http://www.hallotype.nl
+extensionName: PDFButtonSpace
+extensionPath: PDFButtonSpace.roboFontExt
+repository: https://github.com/thomgb/PDFButtonSpace
+tags: [proofing, spacing]
