@@ -1,5 +1,5 @@
-{% assign extensions = "" | split:"|"  %}
+{% assign extensions_unsorted = "" | split:"|"  %}
 {% for extension in site.data %}
-    {% assign extensions = extensions | push: extension[1] %}
+    {% assign extensions_unsorted = extensions_unsorted | push: extension[1] %}
 {% endfor %}
-{% assign extensions = extensions | sorted  %}
+{% assign extensions = extensions_unsorted | sort:'extensionName' %}
