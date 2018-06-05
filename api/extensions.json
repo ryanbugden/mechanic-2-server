@@ -3,12 +3,11 @@ layout: null
 exclude: true
 excludeSearch: true
 ---
-
 {% include extensions %}
 {
     "lastUpdate" : "{{ site.time | date: '%Y-%m-%d %H:%M' }}",
     "extensions" : [
-    {% for item in extensions | sort %}    {
+    {% for item in extensions %}    {
             "extensionName": {{ item.extensionName | jsonify }},
             "repository" :  {{ item.repository | jsonify }},
             "extensionPath" :  {{ item.extensionPath | jsonify }},
