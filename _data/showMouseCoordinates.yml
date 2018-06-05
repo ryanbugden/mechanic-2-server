@@ -1,0 +1,7 @@
+description: Get a live readout of information about the mouse.
+developer: David Jonathan Ross
+developerURL: http://www.fontbureau.com
+extensionName: Show Mouse Coordinates
+extensionPath: 'ShowMouseCoordinates/Show Mouse Coordinates.roboFontExt'
+repository: https://github.com/FontBureau/fbOpenTools
+tags: [design helpers]

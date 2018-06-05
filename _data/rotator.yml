@@ -1,0 +1,7 @@
+description: Joyful rotation of whole glyphs or selected outlines.
+developer: Frank Griesshammer
+developerURL: http://www.frgr.de
+extensionName: Rotator
+extensionPath: Rotator.roboFontExt
+repository: https://github.com/frankrolf/Rotator
+tags: [design helpers]

@@ -3,7 +3,6 @@ layout: default
 excludeSearch: true
 ---
 
-
 <div class="sorting-controls">
   <label>
     <span class="reset">Reset</span>
@@ -65,7 +64,7 @@ excludeSearch: true
       {% for tag in item.tags %}
         <div class="tag">{{ tag }}</div>
       {% endfor %}
-    </div> 
+    </div>
   </div>
 </div>
 {% endfor %}
@@ -113,7 +112,6 @@ if ( found ) {
     filterItems()
 }
 
-
 $(".reset").click(function () {
     $(".sorter-checkbox :checked").each(function () {
         this.checked = false
@@ -121,4 +119,3 @@ $(".reset").click(function () {
   shuffleInstance.filter()
 })
 </script>
-

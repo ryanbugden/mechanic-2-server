@@ -1,8 +1,7 @@
-extensionName: Batch
-repository: https://github.com/typemytype/batchRoboFontExtension
-extensionPath: Batch.roboFontExt
-description: Generate helpers
-tags:
-  - generate
-developer: "Frederik Berlaen"
+description: Batch generate fonts in various formats.
+developer: Frederik Berlaen
 developerURL: http://typemytype.com
+extensionName: Batch
+extensionPath: Batch.roboFontExt
+repository: https://github.com/typemytype/batchRoboFontExtension
+tags: [generating fonts, variable fonts]

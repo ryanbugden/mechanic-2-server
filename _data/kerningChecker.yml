@@ -1,0 +1,7 @@
+description: Checks kerning in the UFO file and compares it with generated binary font.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: KerningChecker
+extensionPath: KerningChecker.roboFontExt
+repository: https://github.com/typemytype/kerningCheckerRoboFontExtension
+tags: [kerning, mastering]

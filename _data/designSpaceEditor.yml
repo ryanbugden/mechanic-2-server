@@ -1,0 +1,7 @@
+description: Create and edit .designspace documents.
+developer: LettError
+developerURL: http://letterror.com
+extensionName: DesignSpaceEditor
+extensionPath: DesignSpaceEditor.roboFontExt
+repository: https://github.com/LettError/designSpaceRoboFontExtension
+tags: [interpolation, mutatorMath, variable fonts]

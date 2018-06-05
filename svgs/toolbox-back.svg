@@ -3,10 +3,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 250 225" style="enable-background:new 0 0 250 225;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#840c8d;}     <!-- side back part  -->
-	.st1{fill:#b010bc;}		<!-- flat parts  -->
-	.st2{fill:#df1eeb;}		<!-- inside part  -->
-	.st3{fill:#e343ef;}		<!-- angled top part  -->
+	.st0{ fill:#006e99; } <!-- side back part  -->
+	.st1{ fill:#0092cc; } <!-- flat parts  -->
+	.st2{ fill:#33c5ff; } <!-- inside part  -->
+	.st3{ fill:#00b7ff; } <!-- angled top part  -->
 </style>
 <g id="Back">
 	<polygon class="st0" points="88.1,81.6 67.5,93.6 46.8,105.5 26.1,117.4 5.4,129.4 5.4,105.5 5.4,81.6 22,48.2 38.5,14.8 46.8,10

@@ -1,0 +1,7 @@
+description: Copies side-bearings from glyphs in one font to respective glyphs in another font.
+developer: Alex Jacque
+developerURL: http://alexjacque.com
+extensionName: CopySidebearings
+extensionPath: CopySidebearings.roboFontExt
+repository: https://github.com/alexjacque/CopySidebearings
+tags: [spacing]

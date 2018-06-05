@@ -1,0 +1,7 @@
+description: Simple, filesystem-based versioning.
+developer: Jack Jennings
+developerURL: http://ja.ckjennin.gs
+extensionName: Replicant
+extensionPath: Replicant.roboFontExt
+repository: https://github.com/jackjennings/Replicant
+tags: [versioning]

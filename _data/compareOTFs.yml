@@ -1,0 +1,7 @@
+description: Diff-compare font tables in two OpenType fonts.
+developer: Gustavo Ferreira
+developerURL: http://hipertipo.com
+extensionName: CompareOTFs
+extensionPath: CompareOTFs.roboFontExt
+repository: https://github.com/gferreira/compare-otfs
+tags: [mastering]

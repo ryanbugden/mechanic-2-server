@@ -1,0 +1,7 @@
+description: A polygon selection tool.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: RoboLasso
+extensionPath: RoboLasso.roboFontExt
+repository: https://github.com/productiontype/RoboLasso
+tags: [design helpers]

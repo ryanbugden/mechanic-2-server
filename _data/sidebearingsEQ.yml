@@ -1,0 +1,7 @@
+description: Equalize sidebearings for given glyphs.
+developer: Franz Heidl
+developerURL: http://www.github.com/franzheidl
+extensionName: SidebearingsEQ
+extensionPath: SidebearingsEQ.roboFontExt
+repository: https://github.com/franzheidl/SidebearingsEQ
+tags: [spacing]

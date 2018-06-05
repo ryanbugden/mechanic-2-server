@@ -1,0 +1,7 @@
+description: A live report about potential drawing issues in your glyph.
+developer: Tal Leming
+developerURL: http://tools.typesupply.com
+extensionName: Glyph Nanny
+extensionPath: Glyph Nanny.roboFontExt
+repository: https://github.com/typesupply/glyph-nanny
+tags: [contours, revisions]

@@ -1,0 +1,7 @@
+description: Use adhesiontext.com from within RoboFont
+developer: Miguel Sousa
+developerURL: http://github.com/forcebold
+extensionName: adhesiontext
+extensionPath: adhesiontext.roboFontExt
+repository: https://github.com/forcebold/adhesiontext-for-robofont
+tags: [proofing, text]

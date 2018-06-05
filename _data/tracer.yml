@@ -1,0 +1,7 @@
+description: Auto trace images.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: Tracer
+extensionPath: Tracer.roboFontExt
+repository: https://github.com/typemytype/tracerRoboFontExtension
+tags: [contours]

@@ -1,0 +1,7 @@
+description: A powerfull 2D graphics scripting tool.
+developer: DrawBot
+developerURL: http://drawbot.com
+extensionName: DrawBot
+extensionPath: DrawBot.roboFontExt
+repository: https://github.com/typemytype/drawBotRoboFontExtension
+tags: [graphics, scripting]

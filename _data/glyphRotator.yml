@@ -1,0 +1,7 @@
+description: A glyph preview window that can be freely rotated.
+developer: Jens Kutilek
+developerURL: http://www.kutilek.de
+extensionName: GlyphRotator
+extensionPath: Extensions/GlyphRotator.roboFontExt
+repository: https://github.com/jenskutilek/RoboFont
+tags: [design helpers]

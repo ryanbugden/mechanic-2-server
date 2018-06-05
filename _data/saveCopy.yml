@@ -1,0 +1,7 @@
+description: Save a version of UFO next to the current document.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: SaveCopy
+extensionPath: SaveCopy.roboFontExt
+repository: https://github.com/typemytype/saveCopyRoboFontExtension
+tags: [UFO, versioning]

@@ -1,0 +1,7 @@
+description: Show selected BCP distances, number of contours and points, etc.
+developer: Jérémie Hornus
+developerURL: http://black-foundry.com
+extensionName: Properties
+extensionPath: Properties.roboFontExt
+repository: https://github.com/BlackFoundry/Properties
+tags: [design helpers]

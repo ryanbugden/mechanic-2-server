@@ -1,0 +1,7 @@
+description: GlyphGiffer lets you export glyphs from a folder of .ufo files as an animated .gif.
+developer: Lukas Schneider
+developerURL: http://www.revolvertype.com
+extensionName: GlyphGiffer
+extensionPath: GlyphGiffer.roboFontExt
+repository: https://github.com/luke-snider/GlyphGiffer
+tags: []

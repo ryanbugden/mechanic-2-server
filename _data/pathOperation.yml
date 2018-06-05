@@ -1,0 +1,7 @@
+description: Perform boolean operations on contours.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: PathOperation
+extensionPath: PathOperation.roboFontExt
+repository: https://github.com/typemytype/pathOperatorRoboFontExtension
+tags: [contours]

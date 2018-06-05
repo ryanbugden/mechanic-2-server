@@ -1,0 +1,7 @@
+description: Visualize the bounding box of your current glyph or selection.
+developer: David Jonathan Ross
+developerURL: http://www.fontbureau.com
+extensionName: Bounding Tool
+extensionPath: BoundingTool/BoundingTool.roboFontExt
+repository: https://github.com/FontBureau/fbOpenTools
+tags: [design helpers]

@@ -1,0 +1,7 @@
+description: Creates an overlap for the selected points.
+developer: Alexandre Saumier Demers
+developerURL: http://asaumierdemers.com
+extensionName: Add Overlap
+extensionPath: AddOverlap.roboFontExt
+repository: https://github.com/asaumierdemers/AddOverlap
+tags: [contours]

@@ -1,0 +1,7 @@
+description: Preview layers and test install separate layers.
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: Layer Preview
+extensionPath: LayerPreview.roboFontExt
+repository: https://github.com/typemytype/layerPreviewRoboFontExtension
+tags: [layers]

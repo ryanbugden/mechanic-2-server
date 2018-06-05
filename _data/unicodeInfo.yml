@@ -1,0 +1,7 @@
+description: Display Unicode name, block, and glyph name info in a window.
+developer: Jens Kutilek
+developerURL: http://www.kutilek.de/
+extensionName: Unicode Info
+extensionPath: UnicodeInfo.roboFontExt
+repository: https://github.com/jenskutilek/RFUnicodeInfo
+tags: [glyph names]

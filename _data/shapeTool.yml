@@ -1,0 +1,7 @@
+description: 'Draw primitive shapes: rectangles and circles.'
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+extensionName: Shape Tool
+extensionPath: ShapeTool.roboFontExt
+repository: https://github.com/typemytype/shapeToolRoboFontExtension
+tags: [contours, drawing]

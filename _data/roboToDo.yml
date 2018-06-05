@@ -1,0 +1,7 @@
+description: Embedded to-do tracker with font- and glyph-scoped to-do items.
+developer: Jack Jennings
+developerURL: http://ja.ckjennin.gs
+extensionName: RoboToDo
+extensionPath: RoboToDo.roboFontExt
+repository: https://github.com/jackjennings/RoboToDo
+tags: [revisions]

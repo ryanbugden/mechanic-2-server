@@ -1,0 +1,7 @@
+description: Show quick info about point selection.
+developer: Frank Griesshammer
+developerURL: http://www.frgr.de
+extensionName: showDist
+extensionPath: showDist.roboFontExt
+repository: https://github.com/frankrolf/showDist
+tags: [design helpers]

@@ -1,0 +1,7 @@
+description: Transfer glyph sets across fonts in style.
+developer: Franz Heidl
+developerURL: http://franzheidl.de
+extensionName: JetSetGlyphs
+extensionPath: JetSetGlyphs.roboFontExt
+repository: https://github.com/franzheidl/JetSetGlyphs
+tags: [glyph set]
