@@ -332,12 +332,15 @@ a {
     text-align: center;
     background-color: $highlightColor;
     @extend .no-select;
-    fieldset {
-        border: none;
-    }
     .developers,
     .stores {
         display: none;
+    }
+    div {
+      margin-bottom: 20px;
+    }
+    div:last-child {
+      margin-bottom: 0;
     }
 }
 .sorter-checkbox {
