@@ -97,12 +97,18 @@ $(".sorter-checkbox").click(function() {
     if (selected.length) {
         window.location.hash = "#" + selected.join("&")
     }
+    else {
+        history.pushState("", document.title, window.location.pathname + window.location.search);
+    }
+    
+    
 })
 
 activeTags = window.location.hash.replace("#", "").split("&")
+
 found = 0
 for (i = 0; i < activeTags.length; i++) {
-    tag = $("#" + activeTags[i])
+    tag = $("#" + decodeURIComponent(activeTags[i]))
     if ( tag.length ) {
         tag.prop('checked', true)
         found = tag
@@ -116,6 +122,7 @@ $(".reset").click(function () {
     $(".sorter-checkbox :checked").each(function () {
         this.checked = false
     })
-  shuffleInstance.filter()
+    shuffleInstance.filter()
+    history.pushState("", document.title, window.location.pathname + window.location.search);
 })
 </script>
