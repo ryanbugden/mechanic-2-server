@@ -2,6 +2,6 @@ description: Preview spacing settings for several fonts at once.
 developer: Loïc Sander
 developerURL: https://github.com/loicsander
 extensionName: Ground Control
-extensionPath: GroundControl.roboFontExt
+extensionPath: Ground Control/Ground-Control.roboFontExt
 repository: https://github.com/loicsander/Robofont-scripts
 tags: [spacing]

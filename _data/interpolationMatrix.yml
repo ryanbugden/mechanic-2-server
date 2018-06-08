@@ -2,6 +2,6 @@ description: Preview interpolation and extrapolation based on master position in
 developer: Loïc Sander
 developerURL: https://github.com/loicsander
 extensionName: Interpolation Matrix
-extensionPath: Interpolation Matrix/InterpolationMatrix.roboFontExt/
+extensionPath: Interpolation Matrix/InterpolationMatrix.roboFontExt
 repository: https://github.com/loicsander/Robofont-scripts
 tags: [interpolation]
