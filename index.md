@@ -53,6 +53,9 @@ excludeSearch: true
   <div class="sorter-item-inner">
     <div class="sorter-column sorter-item-title">
       <a href="{{ item.repository }}">{{ item.extensionName }}</a>
+      {% if item.repository contains "github" %}
+      <a class="sorter-item-download" href="{{ item.repository }}/archive/master.zip">zip</a>
+      {% endif %}
     </div>
     <div class="sorter-column sorter-item-developer">
       {{ item.developer }}

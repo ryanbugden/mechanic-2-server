@@ -292,6 +292,20 @@ a {
             text-decoration: none;
         }
     }
+    .sorter-item-download {
+      padding-left: 10px;
+      opacity: 0;
+      color: $highlightColor;
+      border: none;
+      &:hover {
+        color: black;
+        border: none;
+      }
+    }
+    .sorter-item-inner:hover .sorter-item-download {
+      opacity: 1;
+    }
+
     .sorter-item-author,
     .sorter-item-tags,
     .sorter-item-section,
