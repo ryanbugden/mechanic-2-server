@@ -1,7 +1,7 @@
-extensionName: Mechanic2
-repository: https://github.com/robofont-mechanic/mechanic2Extension
-extensionPath: Mechanic2.roboFontExt
-description: Package manager for RoboFont.
+description: Package manager for RoboFont extensions.
 developer: RoboFont Mechanic
+developerURL: http://robofontmechanic.com
+extensionName: Mechanic
+extensionPath: Mechanic.roboFontExt
+repository: https://github.com/robofont-mechanic/mechanic2Extension
 tags: [extension management]
-developerURL: https://github.com/robofont-mechanic
