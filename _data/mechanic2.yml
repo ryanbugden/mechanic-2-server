@@ -4,5 +4,6 @@ developerURL: http://robofontmechanic.com
 extensionName: Mechanic
 extensionPath: Mechanic.roboFontExt
 repository: https://github.com/robofont-mechanic/mechanic2Extension
+icon: https://github.com/robofont-mechanic/mechanic-2/raw/master/mechanicIcon.png
 tags: [extension management]
 dateAdded: 2013-04-13 21:39:48
