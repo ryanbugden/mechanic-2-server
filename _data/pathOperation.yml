@@ -3,6 +3,7 @@ developer: Frederik Berlaen
 developerURL: http://typemytype.com
 extensionName: PathOperation
 extensionPath: PathOperation.roboFontExt
+icon: http://github.com/typemytype/pathOperatorRoboFontExtension/raw/master/PathOperation.roboFontExt/resources/pathOperatorIcon.png
 repository: https://github.com/typemytype/pathOperatorRoboFontExtension
 tags: [contours]
 dateAdded: 2016-02-11 17:49:48
