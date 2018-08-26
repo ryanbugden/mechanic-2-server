@@ -3,6 +3,7 @@ developer: RoboFab Developers
 developerURL: http://robofab.org
 extensionName: RoboFab Docs
 extensionPath: RoboFabDocs.roboFontExt
+icon: http://github.com/roboDocs/roboFabDocs/raw/master/roboFabDocsMechanicIcon.png
 repository: https://github.com/roboDocs/roboFabDocs
 tags: [scripting]
 dateAdded: 2016-02-11 17:49:51
