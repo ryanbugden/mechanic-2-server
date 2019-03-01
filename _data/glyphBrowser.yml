@@ -1,4 +1,4 @@
-description: A RoboFont extension for browsing and selecting unicode values, glyphnames, categories, lists.
+description: A tool for browsing and selecting unicode values, glyphnames, categories, lists.
 developer: LettError
 developerURL: http://letterror.com
 extensionName: GlyphBrowser
