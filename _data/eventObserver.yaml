@@ -2,7 +2,7 @@ description: Observes events and displays attributes which are available in the 
 developer: Frederik Berlaen
 developerURL: http://typemytype.com
 extensionName: EventObserver
-extensionPath: eventObserverExtension.roboFontExt
+extensionPath: eventObserver.roboFontExt
 repository: https://github.com/roboDocs/eventObserverExtension
 tags: [debugging]
 dateAdded: 2019-02-09 12:00:00
