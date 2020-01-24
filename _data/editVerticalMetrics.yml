@@ -1,6 +1,6 @@
 extensionName: Edit Vertical Metrics
 extensionPath: editVerticalMetrics.roboFontExt
-description: An tool for quickly manipulating vertical metrics in Glyph View.
+description: A tool for quickly manipulating vertical metrics in Glyph View.
 developer: Ryan Bugden
 developerURL: https://ryanbugden.com
 repository: https://github.com/ryanbugden/Edit-Vertical-Metrics
