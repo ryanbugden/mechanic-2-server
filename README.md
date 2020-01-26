@@ -22,4 +22,5 @@ tags:
   - <a tag>
   - <a tag>
   - <a tag>
+dateAdded: YYYY-MM-DD HH:MM:SS
 ```
