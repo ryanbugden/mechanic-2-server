@@ -19,7 +19,8 @@ icon: <url to an png, optional>
 developer: <name of the developer>
 developerURL: <url of the developer>
 tags:
-  - <list of tags>
-  - <list of tags>
-  - <list of tags>
+  - <a tag>
+  - <a tag>
+  - <a tag>
+dateAdded: YYYY-MM-DD HH:MM:SS
 ```
