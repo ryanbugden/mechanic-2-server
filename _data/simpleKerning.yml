@@ -1,7 +1,7 @@
 extensionName: Simple Kerning
 repository: https://gitlab.com/typoman/robofont-simple-kerning
-extensionPath: build/SimpleKerning.roboFontExt
-description: Kerning and grouping with support of both LTR and RTL scripts.
+extensionPath: SimpleKerning.roboFontExt
+description: Kerning and grouping extension with LTR and RTL direction support.
 developer: Bahman Eslami
 developerURL: 'http://bahman.design'
 tags: [ kerning, groups, window, rtl, bidrectional]
