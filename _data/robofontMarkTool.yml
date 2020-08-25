@@ -1,11 +1,15 @@
-extensionName: RoboFont Mark Tool
+extensionName: Mark Positioning
 repository: https://gitlab.com/typoman/robofont-mark-tool
-extensionPath: build/RoboFontMarkTool.roboFontExt
-description: A tool to adjust mark positioning in the glyph view.
+extensionPath: build/MarkPositioning.roboFontExt
+description: Tools for adjusting and generating mark positioning feature.
 developer: Bahman Eslami
-developerURL: 'http://bahman.design'
-tags: [ mark, positioning, tool ]
-infoPath: https://gitlab.com/typoman/robofont-mark-tool/build/RoboFontMarkTool.roboFontExt/info.plist
-zipPath: https://gitlab.com/typoman/robofont-mark-tool/archive/RoboFontMarkTool.roboFontExt.zip
-icon: https://gitlab.com/typoman/robofont-mark-tool/robofontMarkToolExtensionMechanicIcon.png
-dateAdded: 2020-01-06 17:17:17
+developerURL: http://bahman.design
+tags:
+  - mark positioning
+  - tool
+  - anchor
+  - accent
+  - diacritics
+infoPath: https://gitlab.com/typoman/robofont-mark-tool/-/raw/master/build/RoboFontMarkTool.roboFontExt/info.plist
+icon: https://gitlab.com/typoman/robofont-mark-tool/-/raw/master/robofontMarkToolIcon.png
+dateAdded: 2020-08-07 10:10:10
