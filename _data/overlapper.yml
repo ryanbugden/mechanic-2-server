@@ -4,6 +4,6 @@ developerURL: https://ryanbugden.com
 extensionName: Overlapper
 extensionPath: Overlapper.roboFontExt
 repository: https://github.com/ryanbugden/Overlapper
-icon: https://github.com/ryanbugden/Overlapper/blob/main/_images/mechanic_icon.png?raw=true
+icon: https://raw.githubusercontent.com/ryanbugden/Overlapper/main/_images/mechanic_icon.png
 tags: [contours, drawing, glyph]
 dateAdded: 2023-05-30 19:30:00
