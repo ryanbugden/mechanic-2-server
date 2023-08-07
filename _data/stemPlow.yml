@@ -1,5 +1,6 @@
 description: Tool for measuring the thickness of the stem. You can activate it by pressing f in the glyph edit window.
 developer: Rafał Buchner
+developerURL: https://github.com/rafalbuchner/
 extensionName: StemPlow
 extensionPath: build/StemPlow.roboFontExt
 repository: https://github.com/rafalbuchner/StemPlow
