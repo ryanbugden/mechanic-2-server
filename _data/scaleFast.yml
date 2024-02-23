@@ -3,6 +3,6 @@ developer: Loïc Sander
 developerURL: https://github.com/loicsander
 extensionName: ScaleFast
 extensionPath: ScaleFast.roboFontExt
-repository: http://github.com/roboDocs/ScaleFast
+repository: https://github.com/roboDocs/ScaleFast
 tags: [interpolation, design helpers]
 dateAdded: 2015-06-08 11:45:56
