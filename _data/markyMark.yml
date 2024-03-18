@@ -2,7 +2,7 @@ description: See the glyph.markColor in the edit glyph window
 developer: Jackson Showalter-Cavanaugh
 developerURL: http://www.okaytype.com
 extensionName: Marky Mark
-extensionPath: MarkyMark.roboFontExt
+extensionPath: Earmark Glyphview.roboFontExt
 repository: https://github.com/okay-type/EarmarkGlyphview-roboFontExt
 icon: https://raw.githubusercontent.com/okay-type/EarmarkGlyphview-roboFontExt/master/source/resources/icon.png
 tags: [workspace, mark]
