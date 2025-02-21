@@ -4,6 +4,6 @@ description: Quickly and easily add anchors.
 developer: Ryan Bugden
 developerURL: https://ryanbugden.com
 repository: https://github.com/ryanbugden/Anchor-Dropper
-infoPath: https://raw.githubusercontent.com/ryanbugden/Anchor-Dropper/master/Anchor_Dropper.roboFontExt/info.plist
+infoPath: https://raw.githubusercontent.com/ryanbugden/Anchor-Dropper/master/info.yaml
 icon: https://raw.githubusercontent.com/ryanbugden/Anchor-Dropper/master/mechanic_icon.png
 tags: [anchors, diacritics, accents, glyphconstruction]
