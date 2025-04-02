@@ -5,6 +5,7 @@ developer: Ryan Bugden
 developerURL: https://ryanbugden.com
 repository: https://github.com/ryanbugden/Eyeliner
 infoPath: https://raw.githubusercontent.com/ryanbugden/Eyeliner/master/info.yaml
+zipPath: https://github.com/ryanbugden/Eyeliner/releases/latest/download/Eyeliner.roboFontExt.zip
 icon: https://raw.githubusercontent.com/ryanbugden/Eyeliner/master/source/resources/mechanic_icon.png
 tags: [alignment, guides, font dimensions]
 dateAdded: 2020-01-26 12:00:00
