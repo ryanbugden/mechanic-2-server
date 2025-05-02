@@ -7,5 +7,7 @@ repository: https://github.com/connordavenport/BezierSurgeon
 infoPath: https://raw.githubusercontent.com/connordavenport/BezierSurgeon/master/info.yaml
 zipPath: https://github.com/connordavenport/BezierSurgeon/releases/latest/download/BezierSurgeon.roboFontExt.zip
 icon: https://raw.githubusercontent.com/connordavenport/BezierSurgeon/master/images/mechanicIcon.png
-tags: [interpolation, drawing]
+tags:
+- interpolation
+- drawing
 dateAdded: 2023-03-04 16:03:24

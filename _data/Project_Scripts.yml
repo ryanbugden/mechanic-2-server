@@ -7,4 +7,5 @@ repository: http://github.com/okay-type/Project-Scripts
 icon: https://raw.githubusercontent.com/okay-type/Project-Scripts/master/ProjectScriptsMechanicIcon.png
 infoPath: https://raw.githubusercontent.com/okay-type/Project-Scripts/HEAD/info.yaml
 zipPath: https://github.com/okay-type/Project-Scripts/releases/latest/download/Project_Scripts.roboFontExt.zip
-tags: [ menu ]
+tags:
+- menu
