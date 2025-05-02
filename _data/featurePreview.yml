@@ -6,5 +6,6 @@ extensionPath: Feature Preview.roboFontExt
 repository: https://github.com/typemytype/featurePreviewRoboFontExtension
 infoPath: https://raw.githubusercontent.com/typemytype/featurePreviewRoboFontExtension/HEAD/info.yaml
 zipPath: https://github.com/typemytype/featurePreviewRoboFontExtension/releases/latest/download/Feature_Preview.roboFontExt.zip
-tags: [OpenType features]
+tags:
+- features
 dateAdded: 2016-11-13 11:01:05

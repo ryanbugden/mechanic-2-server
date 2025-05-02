@@ -7,5 +7,6 @@ repository: https://github.com/ryanbugden/Fit-Glyph-Cells
 infoPath: https://raw.githubusercontent.com/ryanbugden/Fit-Glyph-Cells/master/info.yaml
 zipPath: https://github.com/ryanbugden/Fit-Glyph-Cells/releases/latest/download/Fit_Glyph_Cells.roboFontExt.zip
 icon: https://raw.githubusercontent.com/ryanbugden/Fit-Glyph-Cells/master/source/resources/mechanic_icon.png
-tags: [font overview, glyph cells]
+tags:
+- font overview
 dateAdded: 2020-04-30 12:00:00
