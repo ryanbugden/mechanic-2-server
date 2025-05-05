@@ -7,5 +7,8 @@ repository: https://github.com/ryanbugden/Edit-Font-Dimensions
 infoPath: https://raw.githubusercontent.com/ryanbugden/Edit-Font-Dimensions/master/info.yaml
 zipPath: https://github.com/ryanbugden/Edit-Font-Dimensions/releases/latest/download/Edit_Font_Dimensions.roboFontExt.zip
 icon: https://raw.githubusercontent.com/ryanbugden/Edit-Font-Dimensions/master/images/mechanic_icon.png
-tags: [font info, font dimensions, glyph view]
+tags:
+- font info
+- font dimensions
+- glyph editor
 dateAdded: 2020-01-27 12:00:00
