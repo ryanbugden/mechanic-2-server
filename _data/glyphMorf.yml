@@ -1,8 +1,0 @@
-description: GlyphMorf is an experimental way for making parametric adjustments for a font.
-developer: Thom Janssen
-developerURL: http://hallotype.nl/glyph-morf
-extensionName: GlyphMorf
-extensionPath: GlyphMorf.roboFontExt
-repository: https://github.com/thomgb/glyphmorfExtension
-tags: []
-dateAdded: 2017-11-29 10:54:47
