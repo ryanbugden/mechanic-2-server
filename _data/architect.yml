@@ -6,7 +6,7 @@ developerURL: https://ryanbugden.com
 repository: https://github.com/ryanbugden/Architect
 infoPath: https://raw.githubusercontent.com/ryanbugden/Architect/main/info.yaml
 zipPath: https://github.com/ryanbugden/Architect/releases/latest/download/Architect.roboFontExt.zip
-icon: https://raw.githubusercontent.com/ryanbugden/Architect/master/source/resources/mechanic_icon.png
+icon: https://raw.githubusercontent.com/ryanbugden/Architect/main/source/resources/mechanic_icon.png
 tags:
 - drawing
 - guidelines
