@@ -1,0 +1,13 @@
+extensionName: Kondo Kerning
+extensionPath: Kondo Kerning.roboFontExt
+description: Cleaning up kerning and group data in your UFOs.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com
+repository: https://github.com/ryanbugden/Kondo-Kerning
+infoPath: https://raw.githubusercontent.com/ryanbugden/Kondo-Kerning/main/info.yaml
+zipPath: https://github.com/ryanbugden/Kondo-Kerning/releases/latest/download/Anchor_Dropper.roboFontExt.zip
+icon: https://raw.githubusercontent.com/ryanbugden/Kondo-Kerning/main/source/resources/mechanic_icon.png
+tags:
+- kerning
+- groups
+dateAdded: 2025-10-12 12:00:00
